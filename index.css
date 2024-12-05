@@ -1,0 +1,38 @@
+.c1,.c2{
+    height: 250px;
+}
+.a,.b,.c,.d{
+height: 400px;
+width: 340px;
+/* border: 2px solid black; */
+display: inline-block;
+position: relative;
+margin: 0%;
+padding: 0%;
+
+}
+
+.e,.f,.g,.h{
+    height: 400px;
+    width: 340px;
+    /* border: 2px solid black; */
+    display: inline-block;
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+img{
+    width: 100%;
+    margin: 0%;
+}
+p{
+    position: absolute;
+    top: 0%;
+    color: red;
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+
+}
